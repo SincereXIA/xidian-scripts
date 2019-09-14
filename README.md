@@ -1,5 +1,5 @@
 # xidian-scripts
- 
+
 [![License: LGPL v3+](https://img.shields.io/badge/License-LGPL%20v3+-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
 ## 这是什么？
@@ -17,3 +17,8 @@
 ### 要求
 至少要保证能在 GNU/Linux 或者其他自由的操作系统下能运行。  
 只能在专有的操作系统上运行的不会允许（或者即使程序本身是自由的，但是依赖专有库的也不会允许）。
+
+
+
+# test
+
